@@ -1,0 +1,85 @@
+body{
+
+	margin: 0;
+
+	padding: 0;
+	background-image: url(bbgym.jpeg);
+
+	background-size: cover;
+
+	background-position: center;
+
+	background-repeat: no-repeat;
+
+	background-attachment: fixed;
+}
+
+div{
+
+	background-color: #dd4814;
+	color: white;
+
+	
+	width: 350px;
+
+	
+
+	border-radius: 20px;
+
+	
+
+	text-align: center;
+
+	
+	margin: 100px 400px;
+
+	opacity: 0.6;
+
+}
+
+h1{
+	font-size: 30px;
+
+	text-transform: uppercase;
+}
+
+h1:hover{
+	background-color: red;
+	color: yellow;
+}
+
+
+p{
+	font-size: 22px;
+
+	text-transform: uppercase;
+}
+
+p:hover{
+	background-color: green;
+
+	color: black;
+
+}
+
+button{
+	background-color: rgb(50,50,50);
+
+	color: yellow;
+
+	font-size: 22px;
+
+	padding: 15px;
+
+	border-radius: 10px;
+}
+
+button:hover{
+	background-color: red;
+}
+
+i{
+	font-size: 15px;
+
+	color: black;
+}
